@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dalmacychristopher/CLionProjects/examen_propre/autre_main.cpp
+iostream
+-
+zeroexception.h
+/home/dalmacychristopher/CLionProjects/examen_propre/zeroexception.h
+
+/home/dalmacychristopher/CLionProjects/examen_propre/main.cpp
+
+/home/dalmacychristopher/CLionProjects/examen_propre/zeroexception.h
+stdexcept
+-
+string
+-
+utility
+-
+
